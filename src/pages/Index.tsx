@@ -132,7 +132,7 @@ const Index = () => {
             </span>
             <br />
             <span className="bg-gradient-to-r from-[#8dc641] to-[#03aeef] bg-clip-text text-transparent">
-              Bibliques
+              Bibliques édition 2026
             </span>
           </h1>
 
