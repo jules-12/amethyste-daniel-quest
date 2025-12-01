@@ -31,7 +31,7 @@ const Chapitres = () => {
                 Accueil
               </Button>
             </Link>
-            <h1 className="text-2xl font-bold text-gradient">AMETHYSTE</h1>
+            <h1 className="text-2xl font-bold text-gradient">C'est AMETHYSTE qui gagne</h1>
             <div className="w-24" />
           </div>
         </div>
